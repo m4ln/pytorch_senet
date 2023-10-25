@@ -1,4 +1,4 @@
-# SENet in pytorch for medical image analysis
+# SENet in pytorch for medical image classification
 
 An implementation of SENet, proposed in **Squeeze-and-Excitation Networks** by Jie Hu, Li Shen and Gang Sun, who are the winners of ILSVRC 2017 classification competition. The baseline (model implementation in pytorch) is taken as it is (for the most part) from [moskomule](https://github.com/moskomule/senet.pytorch/tree/58844943617b5215f2d3eab149735ac4a66ed393). The aim of this poject is to assess the SE-module on medical images by comparing it with the plain resnet model.
 
